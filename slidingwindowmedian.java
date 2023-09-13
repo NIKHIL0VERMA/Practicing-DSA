@@ -1,4 +1,3 @@
-Solution for the Sliding windows median problem on leetcode
 //https://leetcode.com/problems/sliding-window-median
 
 class Solution {
